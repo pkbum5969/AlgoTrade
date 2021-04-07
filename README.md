@@ -1,0 +1,2 @@
+# AlgoTrade
+Algorithm Trade Initiative
